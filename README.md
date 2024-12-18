@@ -1,6 +1,5 @@
 # MY-JOURNAL-SPACE
 
-PDS End Term Project
 
 ”MY JOURNAL SPACE”
 
